@@ -1,0 +1,275 @@
+GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project. Headquartered in California, it has been a subsidiary of Microsoft since 2018.It is commonly used to host open-source projects. As of November 2021, GitHub reports having over 73 million developers  and more than 200 million repositories (including at least 28 million public repositories). It is the largest source code host as of November 2021.
+['GitHub, Inc.', ' is a provider of Internet hosting for software development and version control using Git.', ' It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.', ' It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.', ' Headquartered in California, it has been a subsidiary of Microsoft since 2018.', 'It is commonly used to host open-source projects.', ' As of November 2021, GitHub reports having over 73 million developers  and more than 200 million repositories (including at least 28 million public repositories).', ' It is the largest source code host as of November 2021.']
+
+
+
+now checking 'GitHub, Inc.'
+checking if 'least 28 million public repositories ).' is in 'GitHub, Inc.'
+
+
+checking if 'largest source code host' is in 'GitHub, Inc.'
+
+
+checking if 'version control using git' is in 'GitHub, Inc.'
+
+
+checking if '200 million repositories' is in 'GitHub, Inc.'
+
+
+checking if '73 million developers' is in 'GitHub, Inc.'
+
+
+now checking ' is a provider of Internet hosting for software development and version control using Git.'
+checking if 'least 28 million public repositories ).' is in ' is a provider of Internet hosting for software development and version control using Git.'
+
+
+removing randomly choes 'using' from  is a provider of Internet hosting for software development and version control using Git.
+gap '1' created
+adding 'using' to replaced_phrases
+['using']
+replaced_phrases is now ['using']
+checking if 'largest source code host' is in ' is a provider of Internet hosting for software development and version control using Git.'
+
+
+removing randomly choes 'using' from  is a provider of Internet hosting for software development and version control using Git.
+gap '2' created
+adding 'using' to replaced_phrases
+['using', 'using']
+replaced_phrases is now ['using', 'using']
+checking if 'version control using git' is in ' is a provider of Internet hosting for software development and version control using Git.'
+
+
+removing randomly choes 'version' from  is a provider of Internet hosting for software development and version control using Git.
+gap '3' created
+adding 'version' to replaced_phrases
+['using', 'using', 'version']
+replaced_phrases is now ['using', 'using', 'version']
+checking if '200 million repositories' is in ' is a provider of Internet hosting for software development and version control using Git.'
+
+
+removing randomly choes 'control' from  is a provider of Internet hosting for software development and version control using Git.
+gap '4' created
+adding 'control' to replaced_phrases
+['using', 'using', 'version', 'control']
+replaced_phrases is now ['using', 'using', 'version', 'control']
+checking if '73 million developers' is in ' is a provider of Internet hosting for software development and version control using Git.'
+
+
+removing randomly choes 'hosting' from  is a provider of Internet hosting for software development and version control using Git.
+gap '5' created
+adding 'hosting' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting']
+now checking ' It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.'
+checking if 'least 28 million public repositories ).' is in ' It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.'
+
+
+removing randomly choes 'the' from  It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.
+gap '6' created
+adding 'the' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the']
+checking if 'largest source code host' is in ' It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.'
+
+
+removing randomly choes 'distributed' from  It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.
+gap '7' created
+adding 'distributed' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed']
+checking if 'version control using git' is in ' It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.'
+
+
+removing randomly choes 'source' from  It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.
+gap '8' created
+adding 'source' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source']
+checking if '200 million repositories' is in ' It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.'
+
+
+removing randomly choes 'version' from  It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.
+gap '9' created
+adding 'version' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version']
+checking if '73 million developers' is in ' It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.'
+
+
+removing randomly choes 'its' from  It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.
+gap '10' created
+adding 'its' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its']
+now checking ' It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.'
+checking if 'least 28 million public repositories ).' is in ' It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.'
+
+
+removing randomly choes 'wikis' from  It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.
+gap '11' created
+adding 'wikis' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis']
+checking if 'largest source code host' is in ' It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.'
+
+
+removing randomly choes 'several' from  It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.
+gap '12' created
+adding 'several' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several']
+checking if 'version control using git' is in ' It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.'
+
+
+removing randomly choes 'feature' from  It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.
+gap '13' created
+adding 'feature' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature']
+checking if '200 million repositories' is in ' It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.'
+
+
+removing randomly choes 'continuous' from  It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.
+gap '14' created
+adding 'continuous' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous']
+checking if '73 million developers' is in ' It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.'
+
+
+removing randomly choes 'every' from  It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.
+gap '15' created
+adding 'every' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every']
+now checking ' Headquartered in California, it has been a subsidiary of Microsoft since 2018.'
+checking if 'least 28 million public repositories ).' is in ' Headquartered in California, it has been a subsidiary of Microsoft since 2018.'
+
+
+removing randomly choes 'been' from  Headquartered in California, it has been a subsidiary of Microsoft since 2018.
+gap '16' created
+adding 'been' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been']
+checking if 'largest source code host' is in ' Headquartered in California, it has been a subsidiary of Microsoft since 2018.'
+
+
+removing randomly choes 'subsidiary' from  Headquartered in California, it has been a subsidiary of Microsoft since 2018.
+gap '17' created
+adding 'subsidiary' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary']
+checking if 'version control using git' is in ' Headquartered in California, it has been a subsidiary of Microsoft since 2018.'
+
+
+removing randomly choes 'since' from  Headquartered in California, it has been a subsidiary of Microsoft since 2018.
+gap '18' created
+adding 'since' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since']
+checking if '200 million repositories' is in ' Headquartered in California, it has been a subsidiary of Microsoft since 2018.'
+
+
+removing randomly choes 'has' from  Headquartered in California, it has been a subsidiary of Microsoft since 2018.
+gap '19' created
+adding 'has' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has']
+checking if '73 million developers' is in ' Headquartered in California, it has been a subsidiary of Microsoft since 2018.'
+
+
+removing randomly choes 'been' from  Headquartered in California, it has been a subsidiary of Microsoft since 2018.
+gap '20' created
+adding 'been' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been']
+now checking 'It is commonly used to host open-source projects.'
+checking if 'least 28 million public repositories ).' is in 'It is commonly used to host open-source projects.'
+
+
+removing randomly choes 'host' from It is commonly used to host open-source projects.
+gap '21' created
+adding 'host' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host']
+checking if 'largest source code host' is in 'It is commonly used to host open-source projects.'
+
+
+removing randomly choes 'commonly' from It is commonly used to host open-source projects.
+gap '22' created
+adding 'commonly' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly']
+checking if 'version control using git' is in 'It is commonly used to host open-source projects.'
+
+
+removing randomly choes 'commonly' from It is commonly used to host open-source projects.
+gap '23' created
+adding 'commonly' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly']
+checking if '200 million repositories' is in 'It is commonly used to host open-source projects.'
+
+
+removing randomly choes 'used' from It is commonly used to host open-source projects.
+gap '24' created
+adding 'used' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used']
+checking if '73 million developers' is in 'It is commonly used to host open-source projects.'
+
+
+removing randomly choes 'used' from It is commonly used to host open-source projects.
+gap '25' created
+adding 'used' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used']
+now checking ' As of November 2021, GitHub reports having over 73 million developers  and more than 200 million repositories (including at least 28 million public repositories).'
+checking if 'least 28 million public repositories ).' is in ' As of November 2021, GitHub reports having over 73 million developers  and more than 200 million repositories (including at least 28 million public repositories).'
+
+
+removing randomly choes 'million' from  As of November 2021, GitHub reports having over 73 million developers  and more than 200 million repositories (including at least 28 million public repositories).
+gap '26' created
+adding 'million' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used', 'million']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used', 'million']
+checking if 'largest source code host' is in ' As of November 2021, GitHub reports having over 73 million developers  and more than 200 million repositories (including at least 28 million public repositories).'
+
+
+removing randomly choes 'over' from  As of November 2021, GitHub reports having over 73 million developers  and more than 200 million repositories (including at least 28 million public repositories).
+gap '27' created
+adding 'over' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used', 'million', 'over']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used', 'million', 'over']
+checking if 'version control using git' is in ' As of November 2021, GitHub reports having over 73 million developers  and more than 200 million repositories (including at least 28 million public repositories).'
+
+
+removing randomly choes 'least' from  As of November 2021, GitHub reports having over 73 million developers  and more than 200 million repositories (including at least 28 million public repositories).
+gap '28' created
+adding 'least' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used', 'million', 'over', 'least']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used', 'million', 'over', 'least']
+checking if '200 million repositories' is in ' As of November 2021, GitHub reports having over 73 million developers  and more than 200 million repositories (including at least 28 million public repositories).'
+
+
+gap '29' created
+adding '200 million repositories' to replaced_phrases
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used', 'million', 'over', 'least', '200 million repositories']
+now checking ' It is the largest source code host as of November 2021.'
+checking if 'least 28 million public repositories ).' is in ' It is the largest source code host as of November 2021.'
+
+
+removing randomly choes 'host' from  It is the largest source code host as of November 2021.
+gap '30' created
+adding 'host' to replaced_phrases
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used', 'million', 'over', 'least', '200 million repositories', 'host']
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used', 'million', 'over', 'least', '200 million repositories', 'host']
+checking if 'largest source code host' is in ' It is the largest source code host as of November 2021.'
+
+
+gap '31' created
+adding 'largest source code host' to replaced_phrases
+replaced_phrases is now ['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used', 'million', 'over', 'least', '200 million repositories', 'host', 'largest source code host']
+['using', 'using', 'version', 'control', 'hosting', 'the', 'distributed', 'source', 'version', 'its', 'wikis', 'several', 'feature', 'continuous', 'every', 'been', 'subsidiary', 'since', 'has', 'been', 'host', 'commonly', 'commonly', 'used', 'used', 'million', 'over', 'least', '200 million repositories', 'host', 'largest source code host']
+==========
+['GitHub, Inc.', ' is a provider of Internet (5) _ _ _ _ _ _ _  for software development and version control using Git.', ' It offers the distributed version control and source code management (SCM) functionality of Git, plus (10) _ _ _  own features.', ' It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for (15) _ _ _ _ _  project.', ' Headquartered in California, it has (20) _ _ _ _  a subsidiary of Microsoft since 2018.', 'It is commonly (25) _ _ _ _  to host open-source projects.', ' As of November 2021, GitHub reports having over 73 million developers  and more than (29) _ _ _   _ _ _ _ _ _ _   _ _ _ _ _ _ _ _ _ _ _ _  (including at least 28 million public repositories).', ' It is the (31) _ _ _ _ _ _ _   _ _ _ _ _ _   _ _ _ _   _ _ _ _  as of November 2021.']
